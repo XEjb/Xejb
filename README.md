@@ -26,6 +26,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+![MySql](https://img.shields.io/badge/-MySql-D1CDCB?style=flat-square&logo=MySql)
 
 **Tools**
 
